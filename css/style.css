@@ -1,0 +1,5 @@
+.text { font-size:12px; }
+.clicked {font-weight:bolder; color:blue;}
+.hidden{
+    display:none;
+}
